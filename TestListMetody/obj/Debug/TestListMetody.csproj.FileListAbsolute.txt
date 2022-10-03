@@ -1,0 +1,10 @@
+G:\PRG\TestListMetody\TestListMetody\bin\Debug\TestListMetody.exe.config
+G:\PRG\TestListMetody\TestListMetody\bin\Debug\TestListMetody.exe
+G:\PRG\TestListMetody\TestListMetody\bin\Debug\TestListMetody.pdb
+G:\PRG\TestListMetody\TestListMetody\obj\Debug\TestListMetody.csprojAssemblyReference.cache
+G:\PRG\TestListMetody\TestListMetody\obj\Debug\TestListMetody.Form1.resources
+G:\PRG\TestListMetody\TestListMetody\obj\Debug\TestListMetody.Properties.Resources.resources
+G:\PRG\TestListMetody\TestListMetody\obj\Debug\TestListMetody.csproj.GenerateResource.cache
+G:\PRG\TestListMetody\TestListMetody\obj\Debug\TestListMetody.csproj.CoreCompileInputs.cache
+G:\PRG\TestListMetody\TestListMetody\obj\Debug\TestListMetody.exe
+G:\PRG\TestListMetody\TestListMetody\obj\Debug\TestListMetody.pdb
